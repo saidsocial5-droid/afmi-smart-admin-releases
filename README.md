@@ -1,0 +1,1 @@
+# afmi-smart-admin-releases
